@@ -1,0 +1,30 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#status
+{
+font-size: 18px;
+}
+h1
+{
+    color: rgb(0, 0, 0);
+    background-color: beige;
+    margin-top: 0;
+    
+}
+canvas
+ {
+    margin-top: 25px;
+    box-shadow: 10px 10px 10px blanchedalmond;
+    border-radius: 10px;
+    border: 5px ridge rgb(174, 171, 163);
+ }
